@@ -1,0 +1,6 @@
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\bin\Debug\HeadphoneGraphAnalysis.exe.config
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\bin\Debug\HeadphoneGraphAnalysis.exe
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\bin\Debug\HeadphoneGraphAnalysis.pdb
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\obj\Debug\HeadphoneGraphAnalysis.csprojResolveAssemblyReference.cache
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\obj\Debug\HeadphoneGraphAnalysis.exe
+c:\users\marika\documents\visual studio 2013\Projects\HeadphoneGraphAnalysis\HeadphoneGraphAnalysis\obj\Debug\HeadphoneGraphAnalysis.pdb
